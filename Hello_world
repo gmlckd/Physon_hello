@@ -1,0 +1,6 @@
+print("Hrllo Physon")
+
+naver = 10000
+if naver >= 90000
+  print("Naver %s:" % naver)
+  
